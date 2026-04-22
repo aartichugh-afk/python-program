@@ -1,3 +1,4 @@
+# Read a CSV file and using Total profit of all months draw a line plot.
 import pandas as pd
 import matplotlib.pyplot as plt  
 
